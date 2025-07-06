@@ -54,6 +54,7 @@ This dashboard allows users to explore the dataset using the following interacti
 │   └── cleaned_bike_data.csv
 ├── js/
 │   ├── utils.js
+|   |__ kpi.js
 │   ├── lineChart.js
 │   ├── barChart.js
 │   ├── scatterPlot.js
